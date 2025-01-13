@@ -50,12 +50,15 @@
 ### Stats
 
 <div align="center">
+
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyc0011)](https://solved.ac/jyc0011)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jyc0011&theme=cold)  
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jyc0011&show_icons=true&theme=tokyonight)](https://github.com/jyc0011/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyc0011&layout=compact)](https://github.com/jyc0011)
+
 </div>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
