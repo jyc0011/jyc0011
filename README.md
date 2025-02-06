@@ -5,6 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3838C3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=This+is+Cha+Jeong+Eun's+Github.)](https://git.io/typing-svg)
 
+
+<details>
+<summary>About Me</summary>
+
 ### Skills & Tools
 <div align="center">
 
@@ -46,6 +50,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/4JJcuyDp)
 
 </div>
+</details>
 
 ### Stats
 
@@ -59,7 +64,8 @@
 
 </div>
 
-
+<details>
+<summary>waka Time</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2012%20mins-blue)
 
@@ -103,5 +109,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jyc0011/jyc0011/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2025 04:35:21 UTC
+ Last Updated on 06/02/2025 04:33:24 UTC
 <!--END_SECTION:waka-->
+</details>
