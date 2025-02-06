@@ -6,9 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3838C3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=This+is+Cha+Jeong+Eun's+Github.)](https://git.io/typing-svg)
 
 
-<details>
-<summary>About Me</summary>
-
 ### Skills & Tools
 <div align="center">
 
@@ -48,9 +45,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jyc0011211@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge)](https://acoustic-colby-a4a.notion.site/1783b1d2fb5e807186b5eb8c2bb0ac99)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/4JJcuyDp)
-
 </div>
-</details>
 
 ### Stats
 
