@@ -63,27 +63,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 92.2 kB Used in GitHub's Storage 
- > 
-> 🏆 51 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1358 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-🌆 Daytime                4055 commits        █████████░░░░░░░░░░░░░░░░   37.11 % 
+🌆 Daytime                4056 commits        █████████░░░░░░░░░░░░░░░░   37.11 % 
 🌃 Evening                4462 commits        ██████████░░░░░░░░░░░░░░░   40.83 % 
-🌙 Night                  1053 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+🌙 Night                  1053 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -91,7 +79,7 @@
 Monday                   1375 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 Tuesday                  1292 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 Wednesday                1546 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Thursday                 1978 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Thursday                 1979 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
 Friday                   1290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 Saturday                 2174 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
 Sunday                   1273 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
@@ -106,13 +94,7 @@ Sunday                   1273 commits        ███░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -133,5 +115,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jyc0011/jyc0011/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2025 04:22:24 UTC
+ Last Updated on 06/02/2025 04:25:07 UTC
 <!--END_SECTION:waka-->
