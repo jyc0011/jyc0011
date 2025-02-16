@@ -62,7 +62,7 @@
 <details>
 <summary>waka Time</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
 
@@ -104,6 +104,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jyc0011/jyc0011/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 15:23:31 UTC
+ Last Updated on 16/02/2025 15:22:41 UTC
 <!--END_SECTION:waka-->
 </details>
