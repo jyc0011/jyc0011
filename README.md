@@ -45,6 +45,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jyc0011211@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge)](https://acoustic-colby-a4a.notion.site/1783b1d2fb5e807186b5eb8c2bb0ac99)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/4JJcuyDp)
+[![Velog.io](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=black&style=for-the-badge)](https://velog.io/@jyc0011/posts)
 </div>
 
 ### Stats
