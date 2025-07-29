@@ -4,13 +4,16 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
-
+  
+permissions:
+  contents: write 
+  
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -19,7 +22,10 @@ jobs:
         run: |
           git config user.name jyc0011
           git config user.email jyc0011211@gmail.com
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}
-          git add -A .
-          git commit -m "generated"
-          git push
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "generated"
+            git push
+          fi
