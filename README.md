@@ -64,30 +64,7 @@
 <details>
 <summary>waka Time</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2014%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-🌆 Daytime                5400 commits        █████████░░░░░░░░░░░░░░░░   36.10 % 
-🌃 Evening                6040 commits        ██████████░░░░░░░░░░░░░░░   40.38 % 
-🌙 Night                  1491 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1669 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Tuesday                  1471 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Wednesday                3083 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Thursday                 2637 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Friday                   1789 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Saturday                 2736 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Sunday                   1572 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-```
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **I Mostly Code in Java** 
 
@@ -106,6 +83,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jyc0011/jyc0011/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2025 15:35:57 UTC
+ Last Updated on 30/07/2025 15:34:01 UTC
 <!--END_SECTION:waka-->
 </details>
