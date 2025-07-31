@@ -63,8 +63,11 @@
 </div>
 
 <details>
+ 
 <summary>waka Time</summary>
+ 
 <!--START_SECTION:waka-->
+ 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **I Mostly Code in Java** 
@@ -85,5 +88,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
  Last Updated on 30/07/2025 15:34:01 UTC
+ 
 <!--END_SECTION:waka-->
 </details>
