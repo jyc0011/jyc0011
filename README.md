@@ -67,7 +67,7 @@
 <summary>waka Time</summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -110,13 +110,13 @@
 
 ```text
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
