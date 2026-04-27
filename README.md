@@ -69,7 +69,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.39%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -77,7 +77,7 @@
 
 > 📦 GitHub의 101.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 123 만큼의 Contributions을 2026년에 했어요
+> 🏆 124 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -89,19 +89,19 @@
 
 ```text
 🌞 아침                     878 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-🌆 낮　                     1950 commits        █████████░░░░░░░░░░░░░░░░   34.39 % 
-🌃 저녁                     1952 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
-🌙 밤　                     891 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+🌆 낮　                     1950 commits        █████████░░░░░░░░░░░░░░░░   34.38 % 
+🌃 저녁                     1952 commits        █████████░░░░░░░░░░░░░░░░   34.41 % 
+🌙 밤　                     892 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 ```
 📅 **제가 가장 생산적인 날은 수요일이에요.** 
 
 ```text
-월요일                      553 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+월요일                      554 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 화요일                      423 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 수요일                      1765 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
 목요일                      975 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-금요일                      699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-토요일                      728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+금요일                      699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+토요일                      728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 일요일                      528 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 ```
 
