@@ -69,7 +69,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.39%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -77,7 +77,7 @@
 
 > 📦 GitHub의 103.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 245 만큼의 Contributions을 2026년에 했어요
+> 🏆 246 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -90,16 +90,16 @@
 ```text
 🌞 아침                     880 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
 🌆 낮　                     1950 commits        ████████░░░░░░░░░░░░░░░░░   33.66 % 
-🌃 저녁                     1952 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
-🌙 밤　                     1011 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+🌃 저녁                     1952 commits        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+🌙 밤　                     1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 ```
 📅 **제가 가장 생산적인 날은 수요일이에요.** 
 
 ```text
 월요일                      571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 화요일                      441 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-수요일                      1783 commits        ████████░░░░░░░░░░░░░░░░░   30.78 % 
-목요일                      992 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+수요일                      1783 commits        ████████░░░░░░░░░░░░░░░░░   30.77 % 
+목요일                      993 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 금요일                      716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 토요일                      745 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 일요일                      545 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
